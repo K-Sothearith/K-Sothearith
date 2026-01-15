@@ -1,6 +1,7 @@
 ## Hello 😊, I'm Kong Sothearith
 
 # 💫 About Me:
+**`Potential Innovator`** **`Developer`**
 I'm **Kong Sothearith**, a Software Engineering Major at a private institution called Cambodia Academy of Digital Technology (CADT).<br> I'm studying with a role in mind, And it is to become an innovator as a full-stack developer.<br>I enjoy developing web pages that solve real-life problems.<br>I hope to build a start-up one day.
 
 
