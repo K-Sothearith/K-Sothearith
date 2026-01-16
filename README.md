@@ -2,19 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&multiline=true&repeat=false&width=435&lines=Y%C5%8Dkoso;Watashi+no+na+wa+Rith+)](https://git.io/typing-svg)
 # 💫 About Me:
-**`Potential Innovator`** **`Developer`**
+**`Potential Innovator`** **`Developer`** **`Student`**
 
-I'm **Kong Sothearith**, a Software Engineering Major at a private institution called Cambodia Academy of Digital Technology (CADT).<br> I'm studying with a role in mind, And it is to become an innovator as a full-stack developer.<br>I’m passionate about learning how technology works under the hood.<br>
-Currently focused on building solid foundations in programming, data structures, and web development.
+I’m **Kong Sothearith**, a Software Engineering student passionate about turning ideas into working software.<br>
+I’m on a journey to become a full-stack developer, focusing on strong fundamentals and continuous learning.
+
+Currently exploring programming, data structures, and web development, one project at a time. 🔥
 
 
 # 💻 Tech Stack:
-  **Languages**<br><br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java (Starter)](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python (Basic)](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br><br>
-  **Web**<br><br>
+
+### ⌨️ Languages<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java (Starter)](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
+### 🌐 Web<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 🛠️ Other Tools
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 🛠️ Other Tools
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=K-Sothearith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=K-Sothearith&theme=dark&hide_border=false)<br/>
