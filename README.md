@@ -17,9 +17,9 @@ Currently exploring programming, data structures, and web development, one proje
 ### 🛠️ Other Tools
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Sothearith&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=K-Sothearith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Sothearith&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=K-Sothearith&layout=compact&langs_count=8&theme=tokyonight"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=K-Sothearith&theme=tokyonight)
 
