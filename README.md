@@ -23,8 +23,6 @@ Currently exploring programming, data structures, and web development, one proje
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=K-Sothearith&theme=tokyonight)
 
----
-![](https://komarev.com/ghpvc/?username=K-Sothearith&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
